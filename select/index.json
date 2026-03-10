@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "学園天国",
+  "base_artist": "フィンガー5",
+  "createdAt": "2026-03-10T05:02:04.603617Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "学園天国",
+      "artist": "CLC",
+      "has_synced": true,
+      "path": "select/01_学園天国_CLC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "学園天国",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/02_学園天国_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "学園天国(Full編成 Ver.)",
+      "artist": "北宇治高校吹奏楽部",
+      "has_synced": false,
+      "path": "select/03_学園天国(Full編成_Ver.)_北宇治高校吹奏楽部.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "学園天国(チームもなか Ver.)",
+      "artist": "チームもなか",
+      "has_synced": false,
+      "path": "select/04_学園天国(チームもなか_Ver.)_チームもなか.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ「学園天国」",
+      "artist": "アーリャ（CV：上坂すみれ）",
+      "has_synced": true,
+      "path": "select/05_TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ「学園天国」_アーリャ(CV_上坂すみれ).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "学園天国",
+      "artist": "小泉今日子",
+      "has_synced": true,
+      "path": "select/06_学園天国_小泉今日子.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "学園天国",
+      "artist": "高木さん",
+      "has_synced": true,
+      "path": "select/07_学園天国_高木さん.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "学園天国",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/08_学園天国_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "学園天国",
+      "artist": "諸星きらり",
+      "has_synced": false,
+      "path": "select/09_学園天国_諸星きらり.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "学園天国",
+      "artist": "高木さん(CV.高橋李依)",
+      "has_synced": true,
+      "path": "select/10_学園天国_高木さん(CV.高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "学園天国",
+      "artist": "フィンガー5",
+      "has_synced": true,
+      "path": "select/11_学園天国_フィンガー5.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "学園天国 - Gakuen Tengoku",
+      "artist": "Finger 5",
+      "has_synced": false,
+      "path": "select/12_学園天国_-_Gakuen_Tengoku_Finger_5.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "学園天国",
+      "artist": "竜ヶ峰帝人 (豊永利行)",
+      "has_synced": true,
+      "path": "select/13_学園天国_竜ヶ峰帝人_(豊永利行).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "学園天国",
+      "artist": "高木さん (高橋李依)",
+      "has_synced": true,
+      "path": "select/14_学園天国_高木さん_(高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "学園天国",
+      "artist": "小泉今日子",
+      "has_synced": false,
+      "path": "select/15_学園天国_小泉今日子.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ「学園天国」",
+      "artist": "アーリャ(CV：上坂すみれ)",
+      "has_synced": true,
+      "path": "select/16_TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ「学園天国」_アーリャ(CV_上坂すみれ).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "学園天国",
+      "artist": "Kyoko Koizumi",
+      "has_synced": false,
+      "path": "select/17_学園天国_Kyoko_Koizumi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "学園天国",
+      "artist": "フィンガー5",
+      "has_synced": false,
+      "path": "select/pl_01_学園天国_フィンガー5.txt"
+    }
+  ]
+}
